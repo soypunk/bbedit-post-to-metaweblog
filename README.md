@@ -2,6 +2,8 @@
 
 This is an AppleScript that will allow you to take the text contents of the
 front-most BBEdit window and post them to your MetaWeblog-capable blog server.
+At present there is no means to edit an existing entry but such a feature is on
+the drawing table.
 
 To install the script, place the contents of the Blog folder inside your BBEdit
 Scripts folder. This can be found by navigating to the 

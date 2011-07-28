@@ -17,9 +17,11 @@
     - apparently that site took a script written by Philip Dow, so props
     
   @@TODO:
+    - Editing Support (get a list of current entries and populate a text 
+      window with the contents)
+    - Add draft support    
     - Add category support (I don't use categories in my blog but I'd be happy
-    if someone added the feature none-the-less.)
-    - Add draft support
+      if someone added the feature none-the-less.)
     - Figure out if it works with popular MetaWeblog implementations
 *)
 
